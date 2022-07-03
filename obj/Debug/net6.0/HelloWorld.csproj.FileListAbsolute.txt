@@ -1,0 +1,15 @@
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/nicoihle/Documents/Dev/C#/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
